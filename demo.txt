@@ -1,0 +1,1 @@
+Lỗ hổng do sử dụng hàm include, open, ... với đầu vào không được validate.
