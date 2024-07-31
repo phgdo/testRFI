@@ -1,4 +1,4 @@
 <script>
   alert(1);
-windows.location="https://wwww.gooogle.com";
+  window.location.href = "https://wwww.gooogle.com";
 </script>
