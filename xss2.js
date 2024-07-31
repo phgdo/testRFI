@@ -1,3 +1,3 @@
 <script>
-  window.location.href = "https://wwww.gooogle.com";
+  window.location.href = "https://www.google.com";
   </script>
